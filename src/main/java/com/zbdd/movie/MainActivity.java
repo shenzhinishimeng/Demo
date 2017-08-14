@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         Log.e("AA","");
+        Log.e("AA","");
+        Log.e("AA","");  Log.e("AA","");
+
     }
 }
